@@ -1,9 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-image{
+    justify-content: center;
+    text-align: left;
+
+}
 .btn-1{
     border: none;
     color: gray;
-    padding: 10px;
+    padding: 8px;
 }
 .btn-lg{
-    color: red;
+    color: rgba(255, 0, 0, 0.659);
     border-bottom:  solid;
+    border-radius: none;
+}
+.container{
+    padding-top: 500px;
+    color: white;
 }
