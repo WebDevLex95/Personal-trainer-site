@@ -28,3 +28,11 @@
 .text-primary{
     margin-bottom: 50px;
 }
+.third{
+    background-color: lightgray;
+    height: 25vh;
+}
+.image3{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
