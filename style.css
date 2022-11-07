@@ -1,5 +1,9 @@
 .bg-image{
     background-size: cover;
+
+    /* height: 100%;
+    width: 100%;
+    background-image: 100% 100%; */
 }
 .btn-1{
 
@@ -17,10 +21,13 @@
 .container{
     padding-top: 500px;
     color: white;
+    
 }
+
 .bg-image2{
     background-color: grey;
-    height: 100vh;
+    height: 80vh; 
+
 }
 .pic{
     height: 40vh;
@@ -38,4 +45,15 @@
 }
 .list{
     text-align: left;
+}
+
+.picture-1{
+    background-image: url('images/sam-moghadam-khamseh-Z4Q9KHw9ofE-unsplash.jpg');
+    background-size: cover;
+
+}
+
+.picture-2{
+    background-image: url('images/picture1.jpg');
+    background-size: cover;
 }
