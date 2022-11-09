@@ -1,15 +1,15 @@
 .bg-image{
-    background-size: cover;
-
-    /* height: 100%;
-    width: 100%;
-    background-image: 100% 100%; */
+background-image: url('images/picture1.jpg');
+background-position: center;
+background-size: cover;
+ 
 }
 .btn-1{
 
     border: none;
     color: gray;
     padding: 8px;
+    
 }
 .btn-lg{
     font-size: 30px;
@@ -17,6 +17,7 @@
     color: rgba(18, 6, 241, 0.944);
     border-bottom:  solid;
     border-radius: none;
+    margin-bottom: 40px;
 }
 .container{
     padding-top: 500px;
@@ -42,6 +43,7 @@
 .image3{
     padding-top: 50px;
     padding-bottom: 60px;
+
 }
 .list{
     text-align: left;
@@ -56,4 +58,7 @@
 .picture-2{
     background-image: url('images/picture1.jpg');
     background-size: cover;
+}
+.icons{
+    padding: 15px;
 }
